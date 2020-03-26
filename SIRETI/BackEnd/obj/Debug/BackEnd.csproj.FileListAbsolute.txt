@@ -1,0 +1,8 @@
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\bin\Debug\MySql.Data.dll
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\bin\Debug\MySql.Data.xml
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\punk_\Desktop\PW2_2020-version_base\SIRETI\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
